@@ -1,0 +1,1 @@
+Fazendo o teste de arquivo txt com o bash!
