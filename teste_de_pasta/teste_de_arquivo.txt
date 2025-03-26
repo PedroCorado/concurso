@@ -1,3 +1,4 @@
 Fazendo o teste de arquivo txt com o bash!
 Estou adicionando essa segunda linha atraves da nova branch.
 3 - AQUI VAMOS FAZER O TESTE DE COMMIT MERGE.
+4 - Quarta linha adicionada atraves da segunda branch.
